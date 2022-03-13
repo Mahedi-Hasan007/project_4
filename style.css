@@ -1,0 +1,233 @@
+header{
+display:flex;
+margin:auto;
+margin-bottom:-40px;}
+
+header .content {
+margin:auto;
+font-family:sans-serif;}
+
+
+nav {
+margin:auto;
+}
+
+nav ul {
+display:flex;
+}
+
+nav ul li {
+list-style-type:none;
+padding-left:10px;
+padding-right:10px;
+font-family:sans-serif;
+}
+
+nav ul li a{
+display: inline-block;
+margin-right: 10px;
+padding:10px;
+text-decoration:none;
+color:black;
+font-family:sans-serif;
+}
+
+section{
+background-image:url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.scandor.co.uk%2Fwp-content%2Fuploads%2F2017%2F07%2FTree-Banner.jpg&f=1&nofb=1');
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+margin-top:0px;
+}
+
+section h2{
+text-align:center;
+color:white;
+font-size:200%;
+font-family:sans-serif;
+padding-top:40px;
+}
+
+section p{
+text-align:center;
+color:white;
+font-family:sans-serif;
+padding-bottom:100px;
+margin:auto;
+}
+
+main {
+margin:auto;
+text-align:center;
+}
+
+main h2{
+margin-top:40px;
+margin-bottom:0px;
+text-align:center;
+font-family:sans-serif;
+}
+
+main button{
+margin-top:0px;
+margin-bottom:40px;}
+
+main .upper_part{
+display:flex;
+margin:auto;
+justify-content:center;
+}
+
+
+main .upper_part .resize{
+image-width=50px;
+image-height=45px;
+}
+
+main .upper_part .resize img{
+width:150px;
+height:120px;
+padding:10px;
+justify-content:center;
+}
+
+main .upper_part .resize h5{
+margin-top:0px;}
+
+article {
+text-align:center;
+background-image:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagine-home.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fdecor_banner.jpg&f=1&nofb=1');
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+margin:auto;
+color:white;
+padding:15px;
+}
+
+
+footer{
+text-align:center;
+font-family:sans-serif;
+margin:auto;
+}
+
+
+footer h3{
+text-align:center;
+font-family:sans-serif;
+color:purple;
+margin-top:50px;
+margin-bottom:0px;
+}
+
+
+footer .above_footer{
+justify-content:center;
+display:flex;
+}
+
+
+footer .above_footer img{
+height:150px;
+width:120px;
+margin:20px;}
+
+
+footer .middle_footer{
+text-align:center;
+color:black;}
+
+footer .bottom_footer{
+display:flex;
+}
+
+footer .bottom_footer h4{
+color:balck;
+padding:20px;
+}
+
+
+footer .bottom_footer h4{
+color:balck;
+}
+
+footer .bottom_footer nav{
+margin:auto;
+}
+
+
+footer .bottom_footer nav{
+margin:auto;
+flex:1;
+}
+
+
+footer .bottom_footer nav ul{
+display:flex;
+justify-content:flex-end;
+}
+
+
+footer .bottom_footer nav ul li{
+list-style-type:none;
+padding-left:10px;
+padding-right:10px;
+font-family:sans-serif;
+}
+
+footer .bottom_footer nav ul li a{
+display: inline-block;
+margin-right: 10px;
+padding:10px;
+text-decoration:none;
+color:black;
+font-family:sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
